@@ -6,7 +6,6 @@
 - 📫 Reach me on GitHub!
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am a Cisco Qualified Engineer
-- 
 <!--
 **OGD311/OGD311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OGD311&show_icons=true&theme=radical)
--->
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OGD311&layout=compact&hide=Tcl,Cython&theme=radical)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OGD311&layout=compact&hide=Tcl&theme=radical)
