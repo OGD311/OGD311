@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with Machine Learning
 - 📫 Reach me on GitHub!
-- ⚡ Fun fact: I am a Cisco Certified Network Engineer
-<!-- 😄 Pronouns: ... -->
+<!-- ⚡ Fun fact: I am a Cisco Certified Network Engineer
+ 😄 Pronouns: ... -->
 <!--
 **OGD311/OGD311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
