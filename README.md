@@ -1,6 +1,6 @@
 ### Hi there 👋
 Im Oli, an aspiring CompSci student interested in Encryption, Computer Vision, Game Development and Machine Learning.
-- I know Python, C# and some C, C++, Java and JavaScript.
+- I know Python, C# and some C, C++, Rust, Java and JavaScript.
 - Currently I'm working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) and learning more advanced C#
 - Feel free to contact me on Github :)
 
