@@ -2,8 +2,8 @@
 I'm Oli, an aspiring CompSci student interested in Encryption, Computer Vision, Game Development and Machine Learning.
 - I know Python, C# (Unity) and some C, C++, Rust, Java and JavaScript.
 - Currently I'm working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html) and learning more advanced C#
-- I also like to make lots of small webapps, my latest is [Pichat](https://pichat.co.uk/)
-- Feel free to contact me on Github :)
+- I also like to make lots of small webapps, my latest is [Pichat](https://pichat.co.uk/) (NOT ACTIVE as of 5.3.2024)
+- Feel free to contact me on Github or Discord @avocati3 :)
 
 
 
