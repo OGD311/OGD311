@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Oli, an aspiring CompSci student interested in Backend Development, Computer Vision, Game Development and Machine Learning.
-- I know Python, C# (Unity) and some R,, C++, Rust, Java and JavaScript and am currently learning Ruby On Rails.
+- I know Python, C# (Unity) and some R, C++, Rust, Java and JavaScript and am currently learning Ruby On Rails.
 - Currently I'm working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html) and learning more advanced C#
 - I also like to make lots of small webapps, my latest is [Pichat](https://pichat.co.uk/) (NOT ACTIVE as of 5.3.2024)
 - Feel free to contact me on Github or Discord @avocati3 :)
