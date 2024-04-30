@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Oli, an aspiring CompSci student interested in Backend Development, Computer Vision, Game Development and Machine Learning.
-- I know Python, C# (Unity) and a bit of R, Ruby, C++, Rust and JavaScript and am currently learning Django.
-- I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html).
+I'm Oli, an aspiring CompSci student interested in Backend Development, Computer Vision, Game Development and Machine Learning
+- I know Python, C# (Unity) and a bit of R, Ruby, C++, Rust and JavaScript and am currently learning Django
+- I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
 - I also like to make lots of small python apps such as [TubeIT](https://github.com/OGD311/TubeIT)
 - Feel free to contact me on Github or Discord @avocati3
 <!--I also like to make lots of small webapps, my latest is [Pichat](https://pichat.co.uk/) (NOT ACTIVE as of 5.3.2024) -->
