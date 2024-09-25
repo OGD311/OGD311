@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Oli, a CompSci student interested in Backend Development, Computer Vision, Game Development and Machine Learning
-- I know Python, C# (Unity) and a bit of PhP (Lavarel), C++ and JS
+- I know Python, some C# (Unity) and a bit of PhP. I am currently learning Java for my university course
 - I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
 - I also like to make lots of small python apps, such as [TubeIT](https://github.com/OGD311/TubeIT) <!--, and webapps - my latest is PiChat (Coming soon) [Pichat](https://pichat.co.uk/) -->
 - Feel free to contact me on Github or Discord @avocati3
