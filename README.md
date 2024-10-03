@@ -3,7 +3,7 @@ I'm Oli, a CompSci student interested in Backend Development, Computer Vision, G
 - I know Python, some C# (Unity) and a bit of PhP. I am currently learning Java for my university course
 - I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
 - I also like to make lots of small python apps, such as [TubeIT](https://github.com/OGD311/TubeIT) <!--, and webapps - my latest is PiChat (Coming soon) [Pichat](https://pichat.co.uk/) -->
-- My personal website is [here](https://frontend-only--ogd.netlify.app) (In development)
+- My personal website is [here](ogoodwinday.co.uk) (In development)
 - Feel free to contact me on Github or Discord @avocati3
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ogd311)
