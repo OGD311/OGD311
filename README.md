@@ -6,15 +6,20 @@ I'm Oli, a CompSci student interested in Backend Development, Computer Vision, G
 - My personal website is [here](ogoodwinday.co.uk) (In development)
 - Feel free to contact me on Github or Discord @avocati3
 
+
+
+![Metrics](/github-metrics.svg)
+
+
+
+<!-- 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ogd311)
-
-
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OGD311&show_icons=true&layout=compact&theme=radical&hide=prs)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OGD311&size_weight=0.3&count_weight=0.7&layout=compact&hide=Tcl,Cython,C,ShaderLab&theme=radical)
 
-
+-->
 
 
 <!--
