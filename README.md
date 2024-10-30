@@ -4,8 +4,8 @@ I'm Oli, a computer science student interested in Backend Development, Computer 
   <!--
   I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
   I also like to make lots of small python apps, such as [TubeIT](https://github.com/OGD311/TubeIT) <!--, and webapps - my latest is PiChat (Coming soon) [Pichat](https://pichat.co.uk/) -->
-- I am currently working on [this](https://github.com/OGD311/ImageBoard-Tester), a fullstack site written in PHP
-- Feel free to contact me on Github or Discord @avocati3, or through my website
+- I am currently working on [this](https://github.com/OGD311/ImageBoard-Tester), a fullstack image board site written in PHP
+- Feel free to contact me on Github or Discord @avocati3
 
 [![StarredRepo](/metrics.plugin.repositories.svg)](https://github.com/OGD311/ImageBoard-Tester)]
 
