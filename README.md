@@ -7,7 +7,7 @@ I'm Oli, a computer science student interested in Backend Development, Computer 
 - I am currently working on [this](https://github.com/OGD311/ImageBoard-Tester), a fullstack image board site written in PHP
 - Feel free to contact me on Github or Discord @avocati3
 
-[![StarredRepo](/metrics.plugin.repositories.svg)](https://github.com/OGD311/ImageBoard-Tester)]
+[![StarredRepo](/metrics.plugin.repositories.svg)](https://github.com/OGD311/ImageBoard-Tester)
 
 ![Metrics](/github-metrics.svg)
 
