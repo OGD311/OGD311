@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Oli, a computer science student interested in Backend Development, Computer Vision and Machine Learning
+I'm Oli, a computer science student interested in Backend Development and Computer Vision
 - I know Python and PHP, and also some C# (Unity), JS, HTML and CSS. I am currently learning Java for my university course
   <!--
   I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
