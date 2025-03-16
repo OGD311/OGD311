@@ -1,10 +1,7 @@
 ### Hi there 👋
-I'm Oli, a computer science student interested in Backend Development and Computer Vision
-- I know Python and PHP, and also some C# (Unity), JS, HTML and CSS. I am currently learning Java for my university course
-  <!--
-  I've recently finished working on [Lands And Legacy](https://github.com/OGD311/LandsAndLegacy) which you can check out [here](https://ogd311.github.io/SuspiciousBananaStudios.github.io/index.html)
-  I also like to make lots of small python apps, such as [TubeIT](https://github.com/OGD311/TubeIT) <!--, and webapps - my latest is PiChat (Coming soon) [Pichat](https://pichat.co.uk/) -->
-- I am currently working on [this](https://github.com/OGD311/ImageBoard-Tester), a fullstack image board site written in PHP
+I'm Oli, a computer science student interested in backend development!
+- I have experience with Python, PHP, Ruby, Svelte/SvelteKit, JavaScript, HTML/CSS, and some C# (Unity). Currently, I’m learning Java as part of my university course.
+- I recently worked on [this](https://github.com/OGD311/ImageBoard-Tester), a fullstack image board site written in PHP
 - Feel free to contact me on Github or Discord @avocati3
 
 [![StarredRepo](/metrics.plugin.repositories.svg)](https://github.com/OGD311/ImageBoard-Tester)
