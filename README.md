@@ -2,15 +2,6 @@
 
 I'm Oli, a Computer Science MComp student at the University of Sheffield, passionate about systems design, backend infrastructure, and web development. I enjoy building scalable tools, exploring system performance, and working with open-source technologies.
 
----
-
-## 🎓 Education  
-**University of Sheffield**  
-*MComp Computer Science*  
-September 2024 – Present
-
----
-
 ## 🛠️ Technical Skills  
 
 **Languages:**  
