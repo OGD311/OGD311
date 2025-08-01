@@ -5,10 +5,10 @@ I'm Oli, a Computer Science MComp student at the University of Sheffield, passio
 ## 🛠️ Technical Skills  
 
 **Languages:**  
-Python (advanced), PHP, SQL/NoSQL, Java, Ruby, JavaScript
+Python, PHP, SQL/NoSQL, Java, Ruby, JavaScript (React, NextJS, React Native)
 
 **Frameworks & Tools:**  
-Flask, Django, Svelte, Sinatra, Supabase  
+Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase  
 Git, Linux, Docker, Traefik, Redis, CassandraDB, Postgres, MySQL, Cloudflare
 
 ---
