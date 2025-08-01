@@ -8,12 +8,24 @@ I'm Oli, a Computer Science MComp student at the University of Sheffield, passio
 Python, PHP, SQL/NoSQL, Java, Ruby, JavaScript (React, NextJS, React Native)
 
 **Frameworks & Tools:**  
-Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase  
-Git, Linux, Docker, Traefik, Redis, CassandraDB, Postgres, MySQL, Cloudflare
+Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase
+Git, Linux, Docker, Traefik, Redis, CassandraDB, Postgres, MySQL, Cloudflare, Tailwind, NPM
 
 ---
 
 ## 🚀 Personal Projects  
+
+### [ConCalendar](https://github.com/OGD311/Concalendar-frontend)
+**Tech:** ReactNative, Expo, GoLang (Fiber), NativeWind
+- Users can view and favourite upcoming fan conventions
+- Intelligent data syncing from backend with data stored for offline use
+- Cross platform design and consistent user experience
+
+### 📊 [Rate My Society](https://github.com/OGD311/RateMySociety)
+**Tech:** NextJS/React, Prisma, Tailwind
+- Allows students to view, rate and review different university societies
+- Seamless experience thanks to NextJS and Prisma
+- Thoughtful UI/UX for ease of use with Tailwind
 
 ### 🔗 [WikiLinks](https://github.com/OGD311/WikiLinks)
 **Tech:** Python, CassandraDB  
@@ -53,8 +65,8 @@ Git, Linux, Docker, Traefik, Redis, CassandraDB, Postgres, MySQL, Cloudflare
 ---
 
 📫 **Let's connect!**  
-I’m always open to collaboration or a good tech chat—feel free to reach out!
-
+I’m always open to collaboration or a good tech chat - feel free to reach out!
+You can contact me through the options available on my [website](https://ogoodwinday.co.uk)
 <!--
 ### Hi there 👋
 I'm Oli, a computer science student interested in backend development!
