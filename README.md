@@ -15,7 +15,7 @@ Git, Linux, Docker, Traefik, Redis, CassandraDB, RocksDB, Postgres, MySQL, Cloud
 
 ## 🚀 Personal Projects  
 
-### [ConCalendar](https://github.com/OGD311/Concalendar-frontend)
+### 📅 [ConCalendar](https://github.com/OGD311/Concalendar-frontend)
 **Tech:** ReactNative, Expo, GoLang (Fiber), NativeWind
 - Users can view and favourite upcoming fan conventions
 - Intelligent data syncing from backend with data stored for offline use
