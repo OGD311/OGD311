@@ -8,7 +8,7 @@ I'm Oli, a Computer Science MComp student at the University of Sheffield, passio
 Python, PHP, SQL, JavaScript (React, NextJS, React Native), Java, Ruby, GoLang
 
 **Frameworks & Tools:**  
-Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase
+Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase,
 Git, Linux, Docker, Traefik, Redis, CassandraDB, RocksDB, Postgres, MySQL, Cloudflare, Tailwind
 
 ---
