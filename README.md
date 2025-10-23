@@ -1,71 +1,15 @@
 # Hi there 👋
 
-I'm Oli, a Computer Science MComp student at the University of Sheffield, passionate about systems design, backend infrastructure, and web development. I enjoy building scalable tools, exploring system performance, and working with open-source technologies.
-
-## 🛠️ Technical Skills  
+I'm Oli, a Computer Science MComp student at the University of Sheffield, passionate about systems design, backend infrastructure, and web development.
 
 **Languages:**  
-Python, PHP, SQL, JavaScript (React, NextJS, React Native), Java, Ruby, GoLang
+Python, PHP, SQL, JavaScript (React, NextJS, React Native)
 
 **Frameworks & Tools:**  
-Flask, Django, NextJS, React, ReactNative (Expo), Svelte, Sinatra, Supabase,
-Git, Linux, Docker, Traefik, Redis, CassandraDB, RocksDB, Postgres, MySQL, Cloudflare, Tailwind
+Flask, NextJS, React, ReactNative (Expo), Svelte, Supabase,
+Git, Docker, Traefik, Redis, CassandraDB, Cloudflare
 
----
 
-## 🚀 Personal Projects  
-
-### 📅 [ConCalendar](https://github.com/OGD311/Concalendar-frontend)
-**Tech:** ReactNative, Expo, GoLang (Fiber), NativeWind
-- Users can view and favourite upcoming fan conventions
-- Intelligent data syncing from backend with data stored for offline use
-- Cross platform design and consistent user experience
-
-### 📊 [Rate My Society](https://github.com/OGD311/RateMySociety)
-**Tech:** NextJS/React, Prisma, Tailwind
-- Allows students to view, rate and review different university societies
-- Seamless experience thanks to NextJS and Prisma
-- Thoughtful UI/UX for ease of use with Tailwind
-
-### 🔗 [WikiLinks](https://github.com/OGD311/WikiLinks)
-**Tech:** Python, CassandraDB  
-- Parses and explores connections between Wikipedia articles using algorithms like Branch & Bound, IDDFS  
-- Handles 100GB+ data dumps, optimized for performance and scalability  
-- Focus on efficient data flow and avoiding processing bottlenecks
-
-### 🖼️ [ImageBoard](https://github.com/OGD311/Imageboard) 
-**Tech:** PHP, JavaScript, Redis, MySQL, Docker  
-- Inspired by ShimmieV2, developed over 6 months  
-- Secure login/signup, user access control, Redis caching, Dockerized deployment  
-- Emphasis on web security and modular design
-
-### 🏠 Aincrad Home Server 
-**Tech:** Docker, Traefik, Cloudflare, Let’s Encrypt  
-- Self-hosted stack of open-source services (Nextcloud, Vaultwarden, Supabase, etc.) across 3 nodes  
-- Automated reverse proxy & SSL via Traefik and Cloudflare tunnels  
-- Focus on privacy, accessibility, and network resilience
-- For security, you won't find any of the configs for this on my github, but I'm open to chat about it!
----
-
-## 👨‍🏫 Experience  
-
-### 💡 CodeCreators Mentor — ENACTUS Sheffield (Feb 2025 – Present)  
-- Teaching Python fundamentals to classes of 10–20 students  
-- Creating material, providing tailored support  
-
-### 🛡️ Technical Officer — ShefESH (Sep 2024 – Present)  
-- Leading technical setup for CTF events  
-- Managing society infrastructure & website  
-
-### 🎮 Senior Technical Officer — SLUGS (Mar 2025 – Present)  
-- Managing tech team for LAN events  
-- Rebuilt the society website using Svelte/SvelteKit  
-- Running game servers & network gateway
-
----
-
-📫 **Let's connect!**  
-I’m always open to collaboration or a good tech chat - feel free to reach out!
 You can contact me through the options available on my [website](https://ogoodwinday.co.uk)
 <!--
 ### Hi there 👋
